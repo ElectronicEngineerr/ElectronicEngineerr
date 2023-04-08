@@ -11,6 +11,8 @@ I'm Fatih Alperen Bolat, an electrical and electronics engineer, and I work in t
 - ⚡I’m currently learning Python programming
 - 👯 I’m looking to collaborate on Jetson Nano Programing
 - 💬 Ask me about ...
-- 📫 Contact to me : alperenbolat90@gmail.com or www.linkedin.com/in/alperen-bolat-781716213/
+- 📫 Contact to me : alperenbolat90@gmail.com
 
 -->
+📫 [LINKEDIN ](https://www.linkedin.com/in/alperen-bolat-781716213/)
+📫 [INSTAGRAM ](https://www.instagram.com/f.alperen_/)
