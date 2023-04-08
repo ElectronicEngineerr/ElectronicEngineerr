@@ -1,16 +1,16 @@
-### Hi there 👋
+###  Hi I'm Fatih Alperen BOLAT
+**ElectronicEngineerr/ElectronicEngineerr** 
+ 
+ Electric Electronik Engineer and Jetson Nano Programmer
 
-<!--
-**ElectronicEngineerr/ElectronicEngineerr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+H
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
+- 🔭 I’m currently working on Jetson Nano
+- 🌱 I’m currently learning Altium Designer 
+- 🌱 I’m currently learning image processing from OpenCV
+- ⚡I’m currently learning Python programming
+- 👯 I’m looking to collaborate on Jetson Nano Programing
 - 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 📫 Contact to me : alperenbolat90@gmail.com or www.linkedin.com/in/alperen-bolat-781716213/
+
 -->
