@@ -1,9 +1,9 @@
 ###  Hi I'm Fatih Alperen BOLAT
 **ElectronicEngineerr/ElectronicEngineerr** 
  
- Electric Electronik Engineer and Jetson Nano Programmer
+ ELECTRIC ELECTRONIC ENGİNEERİNG AND JETSON NANO - RASPBERRY Pİ PROGRAMMER 
 
-H
+I'm Fatih Alperen Bolat, an electrical and electronics engineer, and I work in the electrical, electronics and software departments of a research and development team. While designing the tool, while studying, the microprocessor is jetson nano. To run some of the tool, I am processing images using the OpenCV library. By the way, I'm designing a circuit board with Altium Designer.
 
 - 🔭 I’m currently working on Jetson Nano
 - 🌱 I’m currently learning Altium Designer 
