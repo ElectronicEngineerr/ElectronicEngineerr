@@ -1,6 +1,9 @@
 <h1 align="center">Hi 👋, I'm Fatih Alperen Bolat</h1>
 <h3 align="center">A Electric Electronic Engineer and Jetson Nano Programmer</h3>
 
+I'm Fatih Alperen BOLAT, I'm an electrical and electronics engineer. As you know, software learning requirement is required to do projects with electronics. so i do image manipulation and socket programming with python. Work on embedded systems with the C programming language. I met Jetson Nano in a competition I participated in and I would like to share useful information with people. because it's nice when you share information :)
+
+
 <p align="center">
   <img src="https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif" alt="Isometric PCB animation with processor" width="620" height="430">
 </p>
