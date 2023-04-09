@@ -2,9 +2,10 @@
 <h3 align="center">Elektrik Elektronik Mühendisi ve Jetson Nano Programcısı</h3>
 
 
-<div style="text-align:center;">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif" alt="Isometric PCB animation with processor" width="500" height="300">
-</div>
+</p>
+
 
 
 
