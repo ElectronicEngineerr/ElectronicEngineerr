@@ -1,18 +1,35 @@
-###  Hi I'm Fatih Alperen BOLAT
-**ElectronicEngineerr/ElectronicEngineerr** 
- 
- ELECTRIC ELECTRONIC ENGİNEERİNG AND JETSON NANO - RASPBERRY Pİ PROGRAMMER 
+<h1 align="center">Merhaba 👋, ben Fatih Alperen Bolat</h1>
+<h3 align="center">Elektrik Elektronik Mühendisi ve Jetson Nano Programcısı</h3>
 
-I'm Fatih Alperen Bolat, an electrical and electronics engineer, and I work in the electrical, electronics and software departments of a research and development team. While designing the tool, while studying, the microprocessor is jetson nano. To run some of the tool, I am processing images using the OpenCV library. By the way, I'm designing a circuit board with Altium Designer.
+(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F8075231-Isometric-PCB-animation-with-processor&psig=AOvVaw1jmJVadNWQLxbDMuC_mLB8&ust=1681166753067000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDB3arwnf4CFQAAAAAdAAAAABAg...")
 
-- 🔭 I’m currently working on Jetson Nano
-- 🌱 I’m currently learning Altium Designer 
-- 🌱 I’m currently learning image processing from OpenCV
-- ⚡I’m currently learning Python programming
-- 👯 I’m looking to collaborate on Jetson Nano Programing
-- 💬 Ask me about ...
-- 📫 Contact to me : alperenbolat90@gmail.com
+<p align="left"> < img src="https://komarev.com/ghpvc/?username=electronicengineerr&label=Profile%20views&color=0e75b6&style=flat" alt="electronicengineerr" /> </p>
 
--->
-📫 [LINKEDIN ](https://www.linkedin.com/in/alperen-bolat-781716213/)
-📫 [INSTAGRAM ](https://www.instagram.com/f.alperen_/)
+- 🔭 Şu anda [Jetson Nano Programlama] üzerinde çalışıyorum ](https://github.com/ElectronicEngineerr/DC-Motor-Driving-with-Jetson-Nano-)
+
+- 🌱 **Python3x** ile yardım etmeyi öğreniyorum
+
+- 👯 ​​[Altium üzerinde işbirliği yapmayı öğreniyorum Tasarımcı](file:///C:/Users/90534/Desktop/JETSON%20NANO/INSANSIZ%20KARA%20ARACI%20PROJE/Tika_Proje/Tika_Proje.pdf)
+
+- 🤝 **OpenCV'den görüntü işlemeyi** öğreniyorum
+
+- 📫 Bana nasıl ulaşırsınız **alperenbolat90@gmail.com**
+
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://twitter.com/https://twitter.com/d8984afe02994c2" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=" https://twitter.com/d8984afe02994c2" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com /in/alperen-bolat-781716213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alperen-bolat-781716213/" yükseklik="30" genişlik="40" /></a>
+<a href="https://instagram.com/https://www.instagram.com/f.alperen_/" target="blank"><img align="center" src="https://raw. githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/f.alperen_/" height="30 " width="40" /></a>
+<a href="https://medium.com/https://medium.com/@alperenbolat90" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@alperenbolat90" yükseklik="30" genişlik="40" /></a>
+<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucagltmnlvqbr1azttnzp7uw" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucagltmnlvqbr1azttnzp7uw" height= "30" width="40" /></a>
+<a href="https://discord.gg/Fatih__#2480" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fatih__#2480" height="30" width="40" /> </a>
+</p>
+
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/ logolar/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://download.blender.org/branding/community/blender_community_badge_white.svg" alt="blender" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www. invisionapp.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/invisionapp/invisionapp-icon.svg" alt="invision" width="40 " height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw. githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https:// www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40 " height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent .com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>/a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ simgeler/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>/a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/ simgeler/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=electronicengineerr&show_icons=true&locale=en&layout=compact" alt="electronicengineerr" /> </p>
+
+<p> <img align="center" src="https://github-readme-stats.vercel.app/api?username=electronicengineerr&show_icons=true&locale=en" alt="electronicengineerr" /> </p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=electronicengineerr&" alt="electronicengineerr" /></p>
