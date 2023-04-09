@@ -1,7 +1,12 @@
 <h1 align="center">Merhaba 👋, ben Fatih Alperen Bolat</h1>
 <h3 align="center">Elektrik Elektronik Mühendisi ve Jetson Nano Programcısı</h3>
 
-(img align="right" alt="Coding" width="400" src="https://dribbble.com/shots/8075231-Isometric-PCB-animation-with-processor")
+
+![image_processing20191107-1529-aodv35](https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif)
+
+
+Uploading CircuitBoards3_Videvo.mov…
+
 
 - 🔭 Şu anda [Jetson Nano Programlama] üzerinde çalışıyorum ](https://github.com/ElectronicEngineerr/DC-Motor-Driving-with-Jetson-Nano-)
 
