@@ -14,6 +14,10 @@ I'm Fatih Alperen BOLAT, I'm an electrical and electronics engineer. As you know
 
 - 🌱 I’m learning tor help with **Python3x**
 
+- 👯 I'm Working I am preparing an aircraft land vehicle for the technofest competition held in turkey
+
+- 👯 I am working in the technologicalized industry competition held in Turkey.
+
 - 👯 I’m learning to collaborate on [Altium Designer](file:///C:/Users/90534/Desktop/JETSON%20NANO/INSANSIZ%20KARA%20ARACI%20PROJE/Tika_Proje/Tika_Proje.pdf)
 
 - 🤝 I’m learning to **Image processing from OpenCV**
