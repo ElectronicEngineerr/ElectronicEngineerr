@@ -1,7 +1,8 @@
 <h1 align="center">Merhaba 👋, ben Fatih Alperen Bolat</h1>
 <h3 align="center">Elektrik Elektronik Mühendisi ve Jetson Nano Programcısı</h3>
 
-(img align="right" alt="Coding" width="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fdribbble.com%2Fshots%2F8075231-Isometric-PCB-animation-with-processor&psig=AOvVaw1jmJVadNWQLxbDMuC_mLB8&ust=1681166753067000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCPDB3arwnf4CFQAAAAAdAAAAABAg...")
+<img src="https://www.google.com/url?sa=i&amp;url=https%3A%2F%2Fdribbble.com%2Fshots%2F8075231-Isometric-PCB-animation-with-processor&amp;psig=AOvVaw1jmJVadNWQLxbDMuC_mLB8&amp;ust=1681166753067000&amp;source=images&amp;cd=vfe&amp;ved=0CBEQjRxqFwoTCPDB3arwnf4CFQAAAAAdAAAAABAg" alt="Isometric PCB animation with processor">
+
 
 <p align="left"> < img src="https://komarev.com/ghpvc/?username=electronicengineerr&label=Profile%20views&color=0e75b6&style=flat" alt="electronicengineerr" /> </p>
 
@@ -17,12 +18,7 @@
 
 <h3 align="left">Benimle bağlantı kurun:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/d8984afe02994c2" target=" blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt=" https://twitter.com/d8984afe02994c2" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com /in/alperen-bolat-781716213/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/ images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/alperen-bolat-781716213/" yükseklik="30" genişlik="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/f.alperen_/" target="blank"><img align="center" src="https://raw. githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/f.alperen_/" height="30 " width="40" /></a>
-<a href="https://medium.com/https://medium.com/@alperenbolat90" target="blank"><img align="center" src ="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="https://medium.com/@alperenbolat90" yükseklik="30" genişlik="40" /></a>
-<a href="https://www.youtube.com/c/https://www.youtube.com/channel/ucagltmnlvqbr1azttnzp7uw" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/channel/ucagltmnlvqbr1azttnzp7uw" height= "30" width="40" /></a>
-<a href="https://discord.gg/Fatih__#2480" target="blank"><img align="center" src="https:/ /raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fatih__#2480" height="30" width="40" /> </a>
+<a href="https://discord.gg/Fatih__#2480" target="blank"><img align ="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fatih__#2480" yükseklik= "30" width="40" /></a>
 </p>
 
 <h3 align="left">Diller ve Araçlar:</h3>
