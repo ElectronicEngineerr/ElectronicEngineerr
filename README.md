@@ -34,8 +34,9 @@ I'm Fatih Alperen BOLAT, I'm an electrical and electronics engineer. As you know
 </p>
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif" alt="Isometric PCB animation with processor" width="700" height="400">
+  <img src="https://miro.medium.com/max/700/1*rgHf5WTxRuiFAYQ7OoO_3w.png" alt="Python Features Tips Tricks" width="700" height="400">
 </p>
+
 
 
 
