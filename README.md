@@ -39,7 +39,7 @@ I'm Fatih Alperen BOLAT, I'm an electrical and electronics engineer. As you know
 </p>
 
 <p align="center">
-  <img src="https://miro.medium.com/v2/resize:fit:828/1*IRGB-4OAoO8KSqH_huDPFw.gif" alt="Isometric PCB animation with processor" width="900" height="450">
+  <img src="https://miro.medium.com/v2/resize:fit:828/1*IRGB-4OAoO8KSqH_huDPFw.gif" alt="Isometric PCB animation with processor" width="600" height="300">
 </p>
 
 
