@@ -39,10 +39,9 @@ I'm Fatih Alperen BOLAT, I'm an electrical and electronics engineer. As you know
 </p>
 
 <p align="center">
-  <a href="https://blog.devgenius.io/50-python-features-tips-tricks-that-you-dont-know-8a2cb55cd493">
-    <img src="https://miro.medium.com/max/700/1*rgHf5WTxRuiFAYQ7OoO_3w.png" alt="Python Features Tips Tricks" width="700" height="400">
-  </a>
+  <img src="https://miro.medium.com/v2/resize:fit:828/1*IRGB-4OAoO8KSqH_huDPFw.gif" alt="Isometric PCB animation with processor" width="900" height="300">
 </p>
+
 
 
 
