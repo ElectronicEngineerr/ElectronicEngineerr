@@ -10,7 +10,7 @@ I'm Fatih Alperen BOLAT, I'm an electrical and electronics engineer. As you know
 
 
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.devgenius.io%2F50-python-features-tips-tricks-that-you-dont-know-8a2cb55cd493&psig=AOvVaw2scJA2-4nw0ozdyzhtzwC7&ust=1681171203287000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMic2_SAnv4CFQAAAAAdAAAAABAJ)" alt="Isometric PCB animation with processor" width="700" height="400">
+  <img src="[https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif](https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.devgenius.io%2F50-python-features-tips-tricks-that-you-dont-know-8a2cb55cd493&psig=AOvVaw2scJA2-4nw0ozdyzhtzwC7&ust=1681171203287000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMic2_SAnv4CFQAAAAAdAAAAABAJ)" alt=":)" width="700" height="400">
 </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=electronicengineerr&label=Profile%20views&color=0e75b6&style=flat" alt="electronicengineerr" /> </p>
