@@ -33,7 +33,10 @@ I'm Fatih Alperen BOLAT, I'm an electrical and electronics engineer. As you know
 <a href="https://discord.gg/Fatih__#2480" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Fatih__#2480" height="30" width="40" /></a>
 </p>
 
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fblog.devgenius.io%2F50-python-features-tips-tricks-that-you-dont-know-8a2cb55cd493&psig=AOvVaw2scJA2-4nw0ozdyzhtzwC7&ust=1681171203287000&source=images&cd=vfe&ved=0CBEQjRxqFwoTCMic2_SAnv4CFQAAAAAdAAAAABAJ" alt="Python Features Tips Tricks" width="900" height="300">
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif" alt="Isometric PCB animation with processor" width="700" height="400">
+</p>
+
 
 
 <h3 align="left">Languages and Tools:</h3>
