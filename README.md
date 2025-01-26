@@ -9,7 +9,7 @@ I am a senior-year Electrical and Electronics Engineering student aspiring to sp
 Ben, FPGA programlama alanında uzmanlaşmak isteyen ve Vivado, Quartus, Libero gibi araçlarla VHDL ve Verilog kullanarak projeler gerçekleştiren 4. sınıf Elektrik ve Elektronik Mühendisliği öğrencisiyim. ModelSim, QuestaSim ve Vivado kullanarak test benchler yazma, simülasyon ve doğrulama konularında deneyimliyim. Kariyer hedefim, dijital donanım tasarımı alanında uzmanlaşarak bu alanda yenilikçi teknolojilere katkı sağlamaktır.
 
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif" alt="Isometric PCB animation with processor" width="700" height="400">
+  <img src=1672736841.png width="700" height="400">
 </p>
 
 
