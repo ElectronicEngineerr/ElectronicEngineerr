@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Fatih Alperen Bolat</h1>
-<h3 align="center">A Electric Electronic Engineer and Jetson Nano Programmer</h3>
+<h3 align="center">A EEE AND Digital Harhware Designer </h3>
 
-I'm Fatih Alperen BOLAT, I'm an electrical and electronics engineer. As you know, software learning requirement is required to do projects with electronics. so i do image manipulation and socket programming with python. Work on embedded systems with the C programming language. I met Jetson Nano in a competition I participated in and I would like to share useful information with people. because it's nice when you share information :)
-
+[EN]
+I am a senior-year Electrical and Electronics Engineering student aspiring to specialize in FPGA programming. I work on projects using tools such as Vivado, Quartus, and Libero with VHDL and Verilog. I have experience in writing test benches, performing simulations, and conducting verification using ModelSim, QuestaSim, and Vivado. My career goal is to excel in digital hardware design and contribute to innovative technologies in this field. :)
+[TR]
+Ben, FPGA programlama alanında uzmanlaşmak isteyen ve Vivado, Quartus, Libero gibi araçlarla VHDL ve Verilog kullanarak projeler gerçekleştiren 4. sınıf Elektrik ve Elektronik Mühendisliği öğrencisiyim. ModelSim, QuestaSim ve Vivado kullanarak test benchler yazma, simülasyon ve doğrulama konularında deneyimliyim. Kariyer hedefim, dijital donanım tasarımı alanında uzmanlaşarak bu alanda yenilikçi teknolojilere katkı sağlamaktır.
 
 <p align="center">
   <img src="https://user-images.githubusercontent.com/125909061/230800686-f6e17c92-5ca7-42c6-a3b1-de9a39bffbb9.gif" alt="Isometric PCB animation with processor" width="700" height="400">
