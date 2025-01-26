@@ -3,6 +3,8 @@
 
 [EN]
 I am a senior-year Electrical and Electronics Engineering student aspiring to specialize in FPGA programming. I work on projects using tools such as Vivado, Quartus, and Libero with VHDL and Verilog. I have experience in writing test benches, performing simulations, and conducting verification using ModelSim, QuestaSim, and Vivado. My career goal is to excel in digital hardware design and contribute to innovative technologies in this field. :)
+
+
 [TR]
 Ben, FPGA programlama alanında uzmanlaşmak isteyen ve Vivado, Quartus, Libero gibi araçlarla VHDL ve Verilog kullanarak projeler gerçekleştiren 4. sınıf Elektrik ve Elektronik Mühendisliği öğrencisiyim. ModelSim, QuestaSim ve Vivado kullanarak test benchler yazma, simülasyon ve doğrulama konularında deneyimliyim. Kariyer hedefim, dijital donanım tasarımı alanında uzmanlaşarak bu alanda yenilikçi teknolojilere katkı sağlamaktır.
 
