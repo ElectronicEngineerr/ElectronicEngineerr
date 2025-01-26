@@ -21,7 +21,7 @@ Ben, FPGA programlama alanında uzmanlaşmak isteyen ve Vivado, Quartus, Libero 
 
 - 🔭 I’m currently working on [Jetson Nano Programming](https://github.com/ElectronicEngineerr/DC-Motor-Driving-with-Jetson-Nano-)
 
-- 🌱 I’m learning tor help with **Python3x**
+- 🌱 I’m learning VİVADO/QUARTUS/LIBERO/GOWIN_FPGA_DEGISNER --- MUODELSIM/QUESTASIM/VIVADO**
 
 - 👯 I'm Working I am preparing an aircraft land vehicle for the technofest competition held in turkey
 
