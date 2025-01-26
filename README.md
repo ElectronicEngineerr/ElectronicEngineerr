@@ -19,17 +19,17 @@ Ben, FPGA programlama alanında uzmanlaşmak isteyen ve Vivado, Quartus, Libero 
 
 
 
-- 🔭 I’m currently working on [Jetson Nano Programming](https://github.com/ElectronicEngineerr/DC-Motor-Driving-with-Jetson-Nano-)
+- 🔭 I’m currently working on VİVADO/QUARTUS/LIBERO/GOWIN_FPGA_DEGISNER --- MUODELSIM/QUESTASIM/VIVADO**
 
-- 🌱 I’m learning VİVADO/QUARTUS/LIBERO/GOWIN_FPGA_DEGISNER --- MUODELSIM/QUESTASIM/VIVADO**
+- 🌱 I’m learning soC (system on chip)**
 
 - 👯 I'm Working I am preparing an aircraft land vehicle for the technofest competition held in turkey
 
 - 👯 I am working in the technologicalized industry competition held in Turkey.
 
-- 👯 I’m learning to collaborate on [Altium Designer](file:///C:/Users/90534/Desktop/JETSON%20NANO/INSANSIZ%20KARA%20ARACI%20PROJE/Tika_Proje/Tika_Proje.pdf)
+- 👯 I’m learning to Signal Processing  with FPGA
 
-- 🤝 I’m learning to **Image processing from OpenCV**
+- 🤝 I’m learning to **Image processing with FPGA
 
 - 📫 How to reach me **alperenbolat90@gmail.com**
 
