@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Fatih Alperen Bolat</h1>
-<h3 align="center">A EEE AND Digital Harhware Designer </h3>
+<h3 align="center">EEE & Digital Hardware Designer </h3>
 
 [EN]
 I am a senior-year Electrical and Electronics Engineering student aspiring to specialize in FPGA programming. I work on projects using tools such as Vivado, Quartus, and Libero with VHDL and Verilog. I have experience in writing test benches, performing simulations, and conducting verification using ModelSim, QuestaSim, and Vivado. My career goal is to excel in digital hardware design and contribute to innovative technologies in this field. :)
